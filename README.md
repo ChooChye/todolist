@@ -9,3 +9,11 @@
 
 ## ToDoList (Laravel 8 + Vue 2)
 
+Run the command in terminal to setup the database 
+<pre>
+    php artisan migrate 
+</pre>
+Run the command in terminal to view your project
+<pre>
+    php artisan serve
+</pre>
